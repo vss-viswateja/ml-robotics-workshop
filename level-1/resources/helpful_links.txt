@@ -1,0 +1,5 @@
+
+A Beginner’s Guide to Robotics: https://www.sciencedirect.com/topics/engineering/robotics
+What is Machine Learning?: https://www.ibm.com/cloud/learn/machine-learning
+Kaggle Beginner Tutorials: https://www.kaggle.com/learn/overview
+Python Basics: https://www.w3schools.com/python/
