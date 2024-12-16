@@ -17,12 +17,12 @@ By the end of this level, you should:
 ### **Task 1: Basics of Robotics**
 - Learn the definition of robotics, its components, and applications.
 - Resource: `resources/intro_to_robotics.pdf`
-- Task: Write a short summary (200 words) about what you learned and submit it.
+- Task: Checkout the tasks in the `tasks/task-1.md` and `tasks/task-2.md`.
 
 ### **Task 2: Basics of Machine Learning**
 - Learn what ML is, its types, and how it applies to robotics.
 - Resource: `resources/intro_to_ml.pdf`
-- Task: Complete the beginner quiz in `tasks/task-1.md`.
+- Task: Complete the beginner task in `tasks/task-1.md`.
 
 ### **Task 3: Analyze a Simple Dataset**
 - Use the provided dataset (`datasets/simple_dataset.csv`) to:
@@ -34,8 +34,9 @@ By the end of this level, you should:
 
 ## Resources
 The following resources will guide you through this level:
-1. **Introduction to Robotics**: [intro_to_robotics.pdf](./resources/intro_to_robotics.pdf)
-2. **Introduction to Machine Learning**: [intro_to_ml.pdf](./resources/intro_to_ml.pdf)
+1. **Introduction to Robotics**: [intro_to_robotics.pdf](./resources/intro_robotics_1.pdf)
+2. **Introduction to Machine Learning**: [intro_to_ml.pdf](./resources/intro_ml_1.pdf)
+3. **Introduction to Machine Learning 2**: [intro_to_ml_2.pdf](./resources/intro_ml_2.pdf)
 3. **Helpful Links**:
     - [A Beginner’s Guide to Robotics](https://www.sciencedirect.com/topics/engineering/robotics)
     - [What is Machine Learning?](https://www.ibm.com/cloud/learn/machine-learning)
